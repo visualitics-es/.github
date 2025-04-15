@@ -1,6 +1,6 @@
 # Visualitics
 
-![Visualitics Banner](https://visualitics.it/wp-content/uploads/2021/06/visualitics-logo.png)
+![Visualitics Banner](https://visualitics.it/wp-content/uploads/2024/12/IMMAGINE-ANTEPRIMA-HOME.png)
 
 **Visualize Your Data. Empower Your Decisions.**
 
